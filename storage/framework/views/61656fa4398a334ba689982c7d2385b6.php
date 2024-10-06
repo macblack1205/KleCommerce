@@ -1,0 +1,2 @@
+<button class="w-full bg-teal-600 text-white py-3 rounded-md text-lg font-semibold mb-4 hover:bg-teal-800">Add to Cart</button>
+<?php /**PATH /home/macblack/projs/newfe/resources/views/parts/add-to-cart.blade.php ENDPATH**/ ?>

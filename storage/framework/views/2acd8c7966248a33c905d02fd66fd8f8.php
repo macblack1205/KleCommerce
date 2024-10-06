@@ -1,0 +1,1 @@
+<?php /**PATH /home/macblack/projs/newfe/resources/views/new.blade.php ENDPATH**/ ?>
